@@ -1,7 +1,4 @@
 # CP-adaptations
-Conformal Prediction Adaptations to Assist the Identification of Correct Predictions
-
-Getting started:
 
 This repository contains the CP adaptations pertaining to the work:
  “On the Use of Conformal Prediction to Assist the Identification of Correct Change-level Fault Predictions”
